@@ -2,8 +2,8 @@ package main;
 
 public class Main {
     public static void main(String[] args) {
-        int x = 1;
-        int y = 2;
-        System.out.println("Day la C2");
+        int x = 3;
+        int y = 4;
+        System.out.println("Day la C3");
     }
 }
